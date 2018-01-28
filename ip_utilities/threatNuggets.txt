@@ -1,0 +1,130 @@
+223.219.48.45,,30,,5,6,,success,Japan,JP,01,Hokkaido,Asahikawa,070-0824,43.7678,142.3703,Asia/Tokyo,Open Computer Network,AS4713 NTT Communications Corporation
+222.145.140.11,,6,,1,6,,success,Japan,JP,14,Kanagawa,Chigasaki,253-0041,35.3261,139.4039,Asia/Tokyo,NTT,AS4713 NTT Communications Corporation
+220.106.151.62,,90,,10,9,,success,Japan,JP,04,Miyagi,Tomiya,981-3311,38.3931,140.8861,Asia/Tokyo,OCN Provided By NTT-Communications which is ISP,AS4713 NTT Communications Corporation
+219.34.115.109,,8,,2,4,,success,Japan,JP,11,Saitama,Saitama,330-0063,35.8569,139.6489,Asia/Tokyo,Softbank BB,AS17676 Softbank BB Corp.
+217.105.18.152,,8,,8,1,,success,Netherlands,NL,GE,Provincie Gelderland,Wageningen,6709,51.9682,5.6479,Europe/Amsterdam,Ziggo,AS6830 Liberty Global Operations B.V.
+215.87.10.89,,20,,4,5,,success,United States,US,,Ohio,Columbus (East Columbus),,39.9747,-82.8948,America/New_York,DoD Network Information Center,AS721 DoD Network Information Center
+214.241.233.7,,12,,3,4,,success,United States,US,,Ohio,Columbus (East Columbus),,39.9747,-82.8948,America/New_York,DoD Network Information Center,AS721 DoD Network Information Center
+213.157.4.162,,60,,10,6,,success,Germany,DE,HE,Hesse,Moerfelden-Walldorf,64546,49.9947,8.5836,Europe/Berlin,ENTEGA Medianet GmbH,AS12897 ENTEGA Medianet GmbH
+212.164.243.65,,21,,3,7,,success,Russia,RU,NVS,Novosibirskaya Oblast',Toguchin,633456,55.2353,84.3858,Asia/Novosibirsk,Rostelecom,AS12389 PJSC Rostelecom
+207.160.144.220,,40,,5,8,,success,United States,US,MO,Missouri,Jackson,63755,37.4385,-89.6334,America/Chicago,University of Missouri - dba the Missouri Research,AS2572 University of Missouri - dba the Missouri Research and Education Network (MOREnet)
+206.165.244.160,,10,,2,5,,success,United States,US,NE,Nebraska,Papillion,68046,41.1172,-96.0611,America/Chicago,Level 3 Communications,AS29973 Yesmail Inc
+204.115.254.161,,42,,6,7,,success,United States,US,ID,Idaho,Boise,83704,43.632,-116.2838,America/Boise,Pacificsource Health Plans,AS32086 PACIFICSOURCE HEALTH PLANS
+204.13.100.172,,60,,6,10,,success,United States,US,,Texas,Dallas (Downtown),,32.7783,-96.7984,America/Chicago,DataBank Holdings,AS22571 DataBank Holdings, Ltd.
+203.196.179.186,,4,,1,4,,success,India,IN,MH,Maharashtra,Pune,411057,18.5333,73.8667,Asia/Kolkata,TATA Communications Internet Services,AS17820 DIRECT INTERNET LTD.
+201.177.206.194,,40,,4,10,,success,Argentina,AR,B,Buenos Aires,Pergamino,2700,-33.9023,-60.5473,America/Argentina/Buenos_Aires,Telefonica de Argentina,AS22927 Telefonica de Argentina
+200.255.162.253,,15,,5,3,,success,Brazil,BR,BA,Bahia,Salvador,,-12.9833,-38.5167,America/Bahia,Claro S.A.,AS4230 CLARO S.A.
+200.95.130.233,,56,,7,8,,success,Mexico,MX,BCN,Estado de Baja California,Mexicali,21220,32.3528,-115.2901,America/Tijuana,izzi,AS28555 Cablemas Telecomunicaciones SA de CV
+198.139.7.207,,18,,6,3,,success,United States,US,CO,Colorado,Englewood,80111,39.6237,-104.8738,America/Denver,NTT America,AS2914 NTT America, Inc.
+198.120.62.121,,36,,4,9,,success,United States,US,AL,Alabama,Huntsville,35812,34.7304,-86.5859,America/Chicago,National Aeronautics and Space Administration,AS297 National Aeronautics and Space Administration
+198.111.72.245,,16,,2,8,,success,United States,US,MI,Michigan,Flint,48553,42.9736,-83.7203,America/Detroit,Merit Network,AS237 Merit Network Inc.
+196.161.150.166,,20,,5,4,,success,South Africa,ZA,,Gauteng,Johannesburg (Bryanston),,-26.0509,28.0233,Africa/Johannesburg,Vast Networks (PTY) LTD,AS328065 Vast-Networks-AS
+195.200.127.181,,35,,5,7,,success,France,FR,J,Île-de-France,Paris,,48.8505,2.29593,Europe/Paris,Ecritel SARL,AS8304 Ecritel SARL
+193.165.196.217,,9,,9,1,,success,Czech Republic,CZ,MO,Moravskoslezsky kraj,Ostrava,,49.8459,18.2715,Europe/Prague,PODA a.s.,AS30764 PODA a.s.
+191.161.110.216,,30,,6,5,,success,Brazil,BR,MG,Minas Gerais,Santa Luzia,,-19.7691,-43.854,America/Sao_Paulo,Tim Celular S.A.,AS26615 Tim Celular S.A.
+191.70.118.249,,25,,5,5,,success,Colombia,CO,,Bogota D.C.,Bogotá (Chapinero),,4.67619,-74.0521,America/Bogota,Comcel S.A.,AS26611 COMCEL S.A.
+191.31.198.83,,5,,1,5,,success,Brazil,BR,SP,Sao Paulo,Campinas,,-22.9095,-47.0674,America/Sao_Paulo,Vivo,AS26599 TELEFÔNICA BRASIL S.A
+189.132.23.226,,81,,9,9,,success,Mexico,MX,CMX,Mexico City,Mexico City,63009,19.4357,-99.1439,America/Mexico_City,Telmex,AS8151 Uninet S.A. de C.V.
+186.14.200.210,,16,,8,2,,success,Venezuela,VE,K,Lara,Barquisimeto,,10.0739,-69.3228,America/Caracas,Corporación Telemic C.A.,AS21826 Corporación Telemic C.A.
+181.94.69.80,,12,,2,6,,success,Argentina,AR,B,Buenos Aires,Boulogne,1609,-34.5073,-58.5658,America/Argentina/Buenos_Aires,Telecom Personal,AS7303 Telecom Argentina S.A.
+179.60.249.170,,18,,3,6,,success,Argentina,AR,B,Buenos Aires,Lomas de Zamora,1832,-34.7667,-58.4,America/Argentina/Buenos_Aires,ByteSolution S.A. (WispSolution Internet),AS263769 ByteSolution S.A. (WispSolution Internet)
+178.228.192.233,,12,,3,4,,success,Netherlands,NL,ZH,South Holland,The Hague,,52.0646,4.31484,Europe/Amsterdam,T-mobile Netherlands bv.,AS31615 T-mobile Netherlands bv.
+177.24.43.34,,80,,8,10,,success,Brazil,BR,SP,Sao Paulo,São Paulo,,-23.5733,-46.6417,America/Sao_Paulo,Vivo,AS26599 TELEFÔNICA BRASIL S.A
+176.175.25.87,,8,,8,1,,success,France,FR,PAC,Provence-Alpes-Côte d'Azur,Marseille,13000,43.2854,5.3761,Europe/Paris,Bouygues Telecom,AS5410 Bouygues Telecom SA
+173.42.48.186,,81,,9,9,,success,United States,US,CA,California,Fountain Valley,,33.7092,-117.954,America/Los_Angeles,Time Warner Cable,AS20001 Time Warner Cable Internet LLC
+173.29.19.26,,40,,10,4,,success,United States,US,CA,California,Ridgecrest,93555,35.5532,-117.6765,America/Los_Angeles,Mediacom Cable,AS30036 Mediacom Communications Corp
+168.162.82.171,,15,,5,3,,success,United States,US,NJ,New Jersey,Voorhees Township,08043,39.8413,-74.9375,America/New_York,SunGard Computer Services LLC,
+164.109.102.8,,32,,4,8,,success,United States,US,NV,Nevada,Las Vegas,89122,36.1041,-115.0242,America/Los_Angeles,Verizon Business,AS3707 MCI Communications Services, Inc. d/b/a Verizon Business
+163.232.232.57,,3,,1,3,,success,Australia,AU,NSW,New South Wales,Saint Marys,,-33.766,150.774,Australia/Sydney,Department of Finance - Western Australia,AS17561 Department of Finance - Western Australia
+163.187.20.213,,8,,8,1,,success,United States,US,TX,Texas,Houston,77056,29.7489,-95.4678,America/Chicago,Schlumberger Limited,AS72 Schlumberger Limited
+163.47.151.127,,2,,2,1,,success,Nepal,NP,,Central Region,Kathmandu (Lazimpat),,27.7254,85.3285,Asia/Kathmandu,Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, N,AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal
+161.154.94.196,,27,,3,9,,success,United States,US,FL,Florida,North Palm Beach,33408,26.8542,-80.0547,America/New_York,Florida Power & Light Company,AS10273 Florida Power & Light Company
+161.122.176.40,,81,,9,9,,success,Republic of Korea,KR,,Seoul,Seoul (Hwarang-ro 14-gil),,37.6019,127.044,Asia/Seoul,Korea Institute of Science and Technology,AS17866 Korea Institute of Science and Technology
+159.82.184.233,,9,,1,9,,success,United States,US,CT,Connecticut,Newington,06111,41.6856,-72.7312,America/New_York,UTC,
+159.57.175.47,,36,,4,9,,success,United States,US,CA,California,Menlo Park,,37.4806,-122.167,America/Los_Angeles,Raychem Croporation,
+158.218.82.142,,45,,5,9,,success,United Kingdom,GB,ENG,England,Bedford,MK40,52.1333,-0.45,Europe/London,Texas Instruments,
+153.227.170.212,,42,,7,6,,success,Japan,JP,13,Tokyo,Tokyo,102-0082,35.685,139.7514,Asia/Tokyo,Open Computer Network,AS4713 NTT Communications Corporation
+152.55.106.49,,6,,1,6,,success,United States,US,NC,North Carolina,Durham,27709,35.994,-78.8986,America/New_York,North Carolina Research and Education Network,
+148.108.179.41,,20,,10,2,,success,United States,US,PA,Pennsylvania,Jeannette,15644,40.349,-79.6152,America/New_York,FirstEnergy,AS26072 FirstEnergy
+148.60.45.186,,2,,1,2,,success,France,FR,BRE,Brittany,Rennes,35000,48.112,-1.6743,Europe/Paris,Campus de Beaulieu, Avenue du General Leclerc,AS2200 Renater
+143.194.201.171,,24,,4,6,,success,United States,US,AZ,Arizona,Fort Huachuca,85613,31.5273,-110.3607,America/Phoenix,US Department of Defense Network,
+143.177.70.196,,28,,4,7,,success,Netherlands,NL,DR,Provincie Drenthe,Assen,9408,53.0031,6.5116,Europe/Amsterdam,Tele2 Nederland B.V.,AS13127 Tele 2 Nederland B.V.
+143.169.127.199,,56,,8,7,,success,Belgium,BE,VLG,Flanders,Antwerp,2000,51.2167,4.4167,Europe/Brussels,Universitaire Instelling Antwerpen - Campus net,AS2611 BELNET
+142.36.198.156,,3,,1,3,,success,Canada,CA,BC,British Columbia,Victoria,V8X,48.4777,-123.3658,America/Vancouver,Province of British Columbia,AS3633 Province of British Columbia
+141.172.158.46,,14,,7,2,,success,Finland,FI,18,Uusimaa,Helsinki,00100,60.1756,24.9342,Europe/Helsinki,UPM-Kymmene Oyj,AS29601 UPM-Kymmene Oyj
+140.24.207.99,,10,,1,10,,success,United States,US,,Ohio,Columbus (East Columbus),,39.9829,-82.9105,America/New_York,DoD Network Information Center,
+137.14.101.49,,25,,5,5,,success,United States,US,AL,Alabama,Montgomery,36114,32.404,-86.2539,America/Chicago,United States Air Force,AS385 754th Electronic Systems Group
+133.244.149.121,,36,,6,6,,success,Japan,JP,,Aichi,Mizuho-ku (2),,35.1315,136.929,Asia/Tokyo,,
+133.157.67.104,,6,,2,3,,success,Japan,JP,,Tokyo,Setagaya-ku (8),,35.6049,139.673,Asia/Tokyo,,
+133.81.90.109,,6,,3,2,,success,Japan,JP,,Kumamoto,Munakata,,33.8122,130.595,Asia/Tokyo,Research Organization of Information and Systems,AS2907 Research Organization of Information and Systems, National Institute of Informatics
+131.180.133.211,,27,,3,9,,success,Netherlands,NL,ZH,South Holland,Delft,2616,52.0186,4.3782,Europe/Amsterdam,Technische Universiteit Delft,AS1128 SURFnet bv
+126.164.90.55,,12,,4,3,,success,Japan,JP,13,Tokyo,Tokyo,102-0082,35.685,139.7514,Asia/Tokyo,Softbank BB,AS17676 Softbank BB Corp.
+124.229.209.147,,45,,5,9,,success,China,CN,HN,Hunan,Yongzhou,,26.4239,111.6131,Asia/Shanghai,China Telecom Hunan,AS4134 No.31,Jin-rong Street
+124.106.9.148,,6,,6,1,,success,Philippines,PH,,Metro Manila,Quezon City (Santa Teresita),,14.6179,121,Asia/Manila,Philippine Long Distance Telephone,AS9299 Philippine Long Distance Telephone Company
+122.162.185.61,,54,,9,6,,success,India,IN,DL,National Capital Territory of Delhi,New Delhi,,28.6,77.2,Asia/Kolkata,Airtel Broadband,AS24560 Bharti Airtel Ltd., Telemedia Services
+110.192.116.193,,36,,4,9,,success,China,CN,BJ,Beijing,Beijing,,39.9289,116.3883,Asia/Shanghai,China TieTong,AS9394 China TieTong Telecommunications Corporation
+109.83.194.169,,1,,1,1,,success,Saudi Arabia,SA,04,Eastern Province,Al Jubayl,,27.0084,49.6634,Asia/Riyadh,Mobily,AS35819 Bayanat Al-Oula For Network Services
+109.47.50.157,,18,,9,2,,success,Germany,DE,NI,Lower Saxony,Bardowick,21357,53.2935,10.3881,Europe/Berlin,Vodafone GmbH,AS3209 Vodafone GmbH
+107.227.254.221,,49,,7,7,,success,United States,US,NJ,New Jersey,Newark,,40.7357,-74.1724,America/New_York,AT&T Wireless,
+107.65.125.45,,81,,9,9,,success,United States,US,NJ,New Jersey,Newark,,40.7357,-74.1724,America/New_York,AT&T Wireless,
+106.146.45.42,,35,,7,5,,success,Japan,JP,07,Fukushima-ken,Fukushima,960-8213,37.75,140.4678,Asia/Tokyo,Kddi Corporation,AS2516 KDDI CORPORATION
+106.10.140.49,,7,,7,1,,success,Singapore,SG,,Singapore,Geylang,,1.32233,103.932,Asia/Singapore,Yahoo-Inc,AS56173 internet content provider
+104.52.124.160,,4,,4,1,,success,United States,US,IL,Illinois,Chicago,60654,41.8876,-87.6368,America/Chicago,AT&T U-verse,AS7018 AT&T Services, Inc.
+103.13.184.149,,32,,4,8,,success,Philippines,PH,,Calabarzon,Naic,,14.2965,120.792,Asia/Manila,Naic Cable TV Corp.,AS134802 Naic Cable TV Corp.
+102.201.100.153,,6,,2,3,,success,Mauritius,MU,PW,Plaines Wilhems District,Ebene CyberCity,,-20.2419,57.4896,Indian/Mauritius,,
+101.244.152.193,,12,,6,2,,success,China,CN,SH,Shanghai,Shanghai,,31.0456,121.3997,Asia/Shanghai,Beijing Time-vision Telecommunication Technical,Lt,AS4847 China Networks Inter-Exchange
+100.185.125.28,,9,,1,9,,success,United States,US,IL,Illinois,Chicago,,41.8781,-87.6298,America/Chicago,T-Mobile USA,AS21928 T-Mobile USA, Inc.
+98.221.74.10,,48,,8,6,,success,United States,US,NJ,New Jersey,Burlington,08016,40.0707,-74.8332,America/New_York,Comcast Cable,AS7922 Comcast Cable Communications, LLC
+96.66.102.47,,12,,6,2,,success,United States,US,TN,Tennessee,Memphis,38117,35.1133,-89.9021,America/Chicago,Comcast Business,AS7922 Comcast Cable Communications, LLC
+95.188.195.34,,3,,3,1,,success,Russia,RU,BU,Respublika Buryatiya,Ulan-Ude,670023,51.85,107.5333,Asia/Irkutsk,Rostelecom,AS12389 PJSC Rostelecom
+94.239.55.209,,27,,9,3,,success,France,FR,IDF,Île-de-France,Vitry-sur-Seine,94400,48.7872,2.4033,Europe/Paris,Bouygues Telecom,AS5410 Bouygues Telecom SA
+89.252.122.33,,8,,1,8,,success,Russia,RU,NGR,Novgorodskaya Oblast',Veliky Novgorod,173002,58.5167,31.2833,Europe/Moscow,Rostelecom,AS16301 PJSC Rostelecom
+89.162.230.80,,7,,1,7,,success,Ukraine,UA,30,Kyiv City,Kiev,,50.4501,30.5234,Europe/Kiev,Kyivstar PJSC,AS12530 Kyivstar PJSC
+87.228.57.107,,70,,7,10,,success,Russia,RU,MOS,Moscow Oblast,Mytishchi,141006,55.9089,37.7339,Europe/Moscow,LLC Multiscan,AS31514 LLC Multiscan
+87.102.177.199,,18,,2,9,,success,Switzerland,CH,BL,Basel-Landschaft,Liestal,4410,47.4846,7.7345,Europe/Zurich,ImproWare AG,AS6772 ImproWare AG
+84.191.127.195,,2,,1,2,,success,Germany,DE,MV,Mecklenburg-Vorpommern,Altefaehr,18573,54.3167,13.1167,Europe/Berlin,Deutsche Telekom AG,AS3320 Deutsche Telekom AG
+84.170.23.39,,4,,4,1,,success,Germany,DE,BY,Bavaria,Oberschleissheim,85764,48.25,11.5667,Europe/Berlin,Deutsche Telekom AG,AS3320 Deutsche Telekom AG
+80.91.95.230,,20,,4,5,,success,Spain,ES,AN,Andalusia,Rincon de la Victoria,29730,36.7171,-4.2758,Europe/Madrid,Cogent Communications Group, Inc.,AS174 Cogent Communications
+78.34.17.90,,20,,10,2,,success,Germany,DE,NW,North Rhine-Westphalia,Cologne,50823,50.9511,6.9264,Europe/Berlin,NetCologne GmbH,AS8422 NetCologne GmbH
+77.91.174.246,,4,,1,4,,success,Ukraine,UA,30,Kyiv City,Kiev,,50.4333,30.5167,Europe/Kiev,Telesystems of Ukraine LLC,AS24962 Telesystems of Ukraine LLC
+73.252.242.10,,35,,7,5,,success,United States,US,CA,California,Daly City,94015,37.6786,-122.4764,America/Los_Angeles,Comcast Cable,AS7922 Comcast Cable Communications, LLC
+70.232.255.39,,20,,10,2,,success,United States,US,WI,Wisconsin,Oak Creek,53154,42.8863,-87.8883,America/Chicago,AT&T Internet Services,AS7018 AT&T Services, Inc.
+69.64.64.75,,42,,6,7,,success,United States,US,KS,Kansas,Overland Park,66207,38.9552,-94.6449,America/Chicago,Codero,AS18501 Codero
+61.244.55.157,,3,,3,1,,success,Hong Kong,HK,HCW,Central and Western District,City of Victoria,,22.291,114.15,Asia/Hong_Kong,Hong Kong Broadband Network,AS9269 Hong Kong Broadband Network Ltd.
+60.255.8.114,,9,,9,1,,success,China,CN,SC,Sichuan,Chengdu,,30.6667,104.0667,Asia/Shanghai,SiChuan Cable TV Network CO.,LTD,AS4837 CHINA UNICOM China169 Backbone
+60.27.38.176,,70,,7,10,,success,China,CN,TJ,Tianjin,Tianjin,,39.1422,117.1767,Asia/Shanghai,China Unicom Tianjin,AS4837 CHINA UNICOM China169 Backbone
+59.202.131.237,,42,,6,7,,success,China,CN,BJ,Beijing,Beijing,,39.9289,116.3883,Asia/Shanghai,China eGovNet Information Center,
+58.126.129.79,,32,,4,8,,success,Republic of Korea,KR,,Seoul,Seoul (Toegye-ro),,37.561,126.995,Asia/Seoul,SK Broadband,AS9318 SK Broadband Co Ltd
+56.96.178.139,,21,,3,7,,success,United States,US,NC,North Carolina,Raleigh,27668,35.7977,-78.6253,America/New_York,United States Postal Service.,
+55.15.16.22,,60,,10,6,,success,United States,US,AZ,Arizona,Fort Huachuca,85613,31.5273,-110.3607,America/Phoenix,US Department of Defense Network,AS306 DoD Network Information Center
+55.10.221.65,,14,,7,2,,success,United States,US,AZ,Arizona,Fort Huachuca,85613,31.5273,-110.3607,America/Phoenix,US Department of Defense Network,AS306 DoD Network Information Center
+52.203.177.163,,72,,8,9,,success,United States,US,VA,Virginia,Ashburn,20149,39.0481,-77.4728,America/New_York,Amazon.com,AS14618 Amazon.com, Inc.
+50.67.13.229,,48,,8,6,,success,Canada,CA,BC,British Columbia,Vancouver,V6K,49.2646,-123.1648,America/Vancouver,Shaw Communications,AS6327 Shaw Communications Inc.
+45.89.8.173,,80,,8,10,,success,United States,US,CA,California,Los Angeles,,34.0522,-118.244,America/Los_Angeles,,
+42.51.205.137,,21,,7,3,,success,China,CN,HA,Henan,Zhengzhou,,34.6836,113.5325,Asia/Shanghai,CNISP-Union Technology (Beijing) Co.,AS56005 Henan Telcom Union Technology Co., LTD
+41.126.233.89,,36,,6,6,,success,South Africa,ZA,NL,KwaZulu-Natal,Durban,4001,-29.8579,31.0292,Africa/Johannesburg,MTN SA,AS2905 TICSA-ASN
+40.79.247.253,,14,,2,7,,success,Ireland,IE,L,Leinster,Dublin,,53.3389,-6.2595,Europe/Dublin,Microsoft Corporation,AS8075 Microsoft Corporation
+35.217.180.24,,48,,8,6,,success,United States,US,CA,California,Mountain View,94043,37.4192,-122.0574,America/Los_Angeles,Google,AS19527 Google LLC
+32.42.65.225,,80,,10,8,,success,United States,US,NJ,New Jersey,Middletown,07748,40.3965,-74.1075,America/New_York,AT&T,AS2686 AT&T Global Network Services, LLC
+31.225.143.127,,72,,9,8,,success,Germany,DE,NW,North Rhine-Westphalia,Bonn,,50.7236,7.14432,Europe/Berlin,Deutsche Telekom AG,AS3320 Deutsche Telekom AG
+31.13.163.113,,54,,9,6,,success,Palestine,PS,RBH,Ramallah,Ramallah,,31.9,35.2,Asia/Hebron,Call U Communications Ltd.,AS51440 Call U Communications Ltd.
+26.157.16.110,,9,,9,1,,success,United States,US,,Ohio,Columbus (East Columbus),,39.9747,-82.8948,America/New_York,DoD Network Information Center,
+26.70.125.15,,100,,10,10,,success,United States,US,,Ohio,Columbus (East Columbus),,39.9747,-82.8948,America/New_York,DoD Network Information Center,
+25.26.17.165,,4,,2,2,,success,United Kingdom,GB,ENG,England,Woodstock,,51.8492,-1.35119,Europe/London,UK Ministry of Defence,
+23.241.129.81,,4,,1,4,,success,United States,US,CA,California,Lancaster,93535,34.6976,-117.9068,America/Los_Angeles,Time Warner Cable,AS20001 Time Warner Cable Internet LLC
+23.169.111.183,,6,,3,2,,success,United States,US,,California,Marina del Rey (330),,33.9803,-118.44,America/Los_Angeles,,
+21.13.244.246,,20,,4,5,,success,United States,US,,Ohio,Columbus (East Columbus),,39.9747,-82.8948,America/New_York,DoD Network Information Center,
+20.153.222.102,,9,,9,1,,success,United States,US,NJ,New Jersey,Newark,,40.7357,-74.1724,America/New_York,,
+20.146.182.154,,10,,1,10,,success,United States,US,NJ,New Jersey,Newark,,40.7357,-74.1724,America/New_York,,
+19.172.10.215,,10,,5,2,,success,United States,US,MI,Michigan,Dearborn,48121,42.3223,-83.1763,America/Detroit,Ford Motor Company,
+17.210.14.181,,36,,6,6,,success,United States,US,CA,California,Cupertino,95015,37.323,-122.0322,America/Los_Angeles,Apple,AS714 Apple Inc.
+17.55.99.112,,16,,2,8,,success,United States,US,CA,California,Cupertino,95014,37.3042,-122.0946,America/Los_Angeles,Apple,AS714 Apple Inc.
+16.200.95.212,,100,,10,10,,success,United States,US,CA,California,Palo Alto,94304,37.3762,-122.1826,America/Los_Angeles,Hewlett-Packard Company,AS71 Hewlett-Packard Company
+14.249.184.94,,15,,3,5,,success,Vietnam,VN,HN,Thanh Pho Ha Noi,Hanoi,,21.0333,105.85,Asia/Ho_Chi_Minh,Vietnam Posts And Telecommunications Group,
+13.214.175.149,,36,,6,6,,success,United States,US,CT,Connecticut,Norwalk,06850,41.1271,-73.4416,America/New_York,Xerox Corporation,
+13.147.44.77,,12,,3,4,,success,United States,US,CT,Connecticut,Norwalk,06850,41.1271,-73.4416,America/New_York,Xerox Corporation,
+12.9.213.87,,30,,3,10,,success,United States,US,IN,Indiana,Indianapolis,46260,39.895,-86.1804,America/Indiana/Indianapolis,AT&T Services,AS7018 AT&T Services, Inc.
+11.151.45.210,,30,,5,6,,success,United States,US,CA,California,Corona,92882,33.8312,-117.6053,America/Los_Angeles,DoD Network Information Center,
+9.150.175.55,,21,,3,7,,success,United States,US,CA,California,Beverly Hills,90210,34.0995,-118.4143,America/Los_Angeles,,
+5.176.222.40,,15,,3,5,,success,Turkey,TR,,Ankara,Yeşilevler Mahallesi,,39.9772,32.7803,Europe/Istanbul,Turk Telekom,AS20978 AVEA Iletisim Hizmetleri A.S.
+2.216.142.232,,7,,1,7,,success,United Kingdom,GB,ENG,England,Croydon,CR0,51.35,-0.0333,Europe/London,Sky Broadband,AS5607 Sky UK Limited
