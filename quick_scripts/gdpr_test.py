@@ -27,11 +27,11 @@ def checker(domainIn):
 		outFile.close()
 	totalStats = []
 	try:
-		req = requests.get("http://"+domainIn, headers=headers)
+		req = requests.get("http://"+domainIn, headers=headers, timeout=2)
 		stat = req.status_code
 	except:
 		try:
-			req = requests.get( "http://www."+domainIn, headers=headers)
+			req = requests.get( "http://www."+domainIn, headers=headers,timeout=2)
 			stat = req.status_code
 		except:
 			stat = "failed"
