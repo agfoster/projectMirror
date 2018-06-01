@@ -2,9 +2,10 @@ import codecs
 import requests
 from multiprocessing.dummy import Pool as ThreadPool
 
-mightyFile = open('majestic_million.csv')
+mightyFile = open('majestic_million.csv', encoding='UTF-8')
 mightyMil = mightyFile.read().splitlines()
 mightyMil = mightyMil[1:10001]
+mightyFile.close()
 
 
 def printProgressBar(iteration, total, prefix='', suffix='', decimals=1, length=50, fill='█'):
@@ -42,7 +43,8 @@ def checker(domainIn):
     global count
     global totalStats
     count = count + 1
-    printProgressBar(count, 10000)
+    if count % 100 == 0:
+        printProgressBar(count, 10000)
     try:
         req = requests.get("http://" + domainIn, timeout=5, headers=headers)
         stat = req.status_code
