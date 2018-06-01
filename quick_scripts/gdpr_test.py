@@ -4,7 +4,7 @@ from multiprocessing.dummy import Pool as ThreadPool
 
 mightyFile = open('majestic_million.csv')
 mightyMil = mightyFile.read().splitlines()
-mightyMil = mightyMil[1:10000]
+mightyMil = mightyMil[1:10001]
 
 
 def printProgressBar(iteration, total, prefix='', suffix='', decimals=1, length=50, fill='█'):
@@ -42,13 +42,7 @@ def checker(domainIn):
     global count
     global totalStats
     count = count + 1
-    if (count % 100) == 0:
-        printProgressBar(count,10000)
-        outFile = codecs.open('gdprSucks.csv', 'a', encoding='utf-8')
-        for stat in totalStats:
-            outFile.write(str(stat[0]) + ',' + str(stat[1]) + '\n')
-        outFile.close()
-    totalStats = []
+	printProgressBar(count,10000)
     try:
         req = requests.get("http://" + domainIn, timeout=5, headers=headers)
         stat = req.status_code
@@ -59,10 +53,14 @@ def checker(domainIn):
         except:
             stat = "failed"
     totalStats.append((domainIn, stat))
-    return (domainIn, stat)
+	return (domainIn, stat)
 
 
 pool = ThreadPool(10)
 pool.map(checker, domains)
 pool.close()
 pool.join()
+
+with open('gdprSucks.csv', 'a', encoding='utf-8') as outfile:
+    for stat in totalStats:
+	    outFile.write(str(stat[0]) + ',' + str(stat[1]) + '\n')
