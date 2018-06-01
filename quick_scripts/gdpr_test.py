@@ -42,7 +42,9 @@ def checker(domainIn):
     global count
     global totalStats
     count = count + 1
-	printProgressBar(count,10000)
+    printProgressBar(count, 10000)
+
+
     try:
         req = requests.get("http://" + domainIn, timeout=5, headers=headers)
         stat = req.status_code
@@ -53,8 +55,7 @@ def checker(domainIn):
         except:
             stat = "failed"
     totalStats.append((domainIn, stat))
-	return (domainIn, stat)
-
+    return (domainIn, stat)
 
 pool = ThreadPool(10)
 pool.map(checker, domains)
@@ -63,4 +64,4 @@ pool.join()
 
 with open('gdprSucks.csv', 'a', encoding='utf-8') as outfile:
     for stat in totalStats:
-	    outFile.write(str(stat[0]) + ',' + str(stat[1]) + '\n')
+        outFile.write(str(stat[0]) + ',' + str(stat[1]) + '\n')
