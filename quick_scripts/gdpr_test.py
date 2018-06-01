@@ -43,8 +43,6 @@ def checker(domainIn):
     global totalStats
     count = count + 1
     printProgressBar(count, 10000)
-
-
     try:
         req = requests.get("http://" + domainIn, timeout=5, headers=headers)
         stat = req.status_code
