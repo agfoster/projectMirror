@@ -62,6 +62,6 @@ pool.map(checker, domains)
 pool.close()
 pool.join()
 
-with open('gdprSucks.csv', 'a', encoding='utf-8') as outfile:
+with open('gdprBlockResults.csv', 'a', encoding='utf-8') as outfile:
     for stat in totalStats:
         outFile.write(str(stat[0]) + ',' + str(stat[1]) + '\n')
